@@ -1,6 +1,6 @@
 # Rauchfrei Clock 🕰️
 
-Die "Rauchfrei Clock" ist eine einfache Webanwendung, welche berechnet wie viele Zigaretten ich NICHT geraucht habe seit ich das rauchen aufgegeben habe und wie viel Geld ich eingespart habe.
+Die "Rauchfrei Clock" ist eine einfache Webanwendung, welche berechnet wie viele Zigaretten ich NICHT geraucht habe, seit ich das rauchen aufgegeben habe und wie viel Geld ich eingespart habe.
 
 ## Installation
 

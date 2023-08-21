@@ -22,7 +22,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Statistiken</h1>
+            <h1>Endlich Rauchfrei!</h1>
             <div>
                 <p>Nicht gerauchte Zigaretten: {data.zigarettenNichtGeraucht}</p>
                 <p>Geld gespart: CHF {(data.geldGespart ? data.geldGespart.toFixed(2) : "0.00")}</p>

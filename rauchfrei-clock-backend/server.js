@@ -53,12 +53,3 @@ app.listen(PORT, function() {
     console.log('Server started on http://localhost:' + PORT);
 });
 
-app.delete('/deleteAllData', function(req, res) {
-    rauchfrei.deleteMany({})
-    .then(() => {
-        res.send('Alle Datensätze wurden erfolgreich gelöscht.');
-    })
-    .catch(err => {
-        res.status(500).send('Internal server error');
-    });
-});

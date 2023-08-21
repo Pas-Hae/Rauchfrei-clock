@@ -1,9 +1,6 @@
-Natürlich! Hier ist eine vollständige `README.md`-Datei für Ihr Repository:
-
-```markdown
 # Rauchfrei Clock 🕰️
 
-Die "Rauchfrei Clock" ist eine einfache Webanwendung, die Benutzern hilft, den Fortschritt nach dem Aufhören mit dem Rauchen zu verfolgen. Sie zeigt an, wie viele Zigaretten der Benutzer seit dem Aufhören nicht geraucht hat und wie viel Geld er dadurch gespart hat.
+Die "Rauchfrei Clock" ist eine einfache Webanwendung, welche berechnet wie viele Zigaretten ich NICHT geraucht habe seit ich das rauchen aufgegeben habe und wie viel Geld ich eingespart habe.
 
 ## Installation
 
